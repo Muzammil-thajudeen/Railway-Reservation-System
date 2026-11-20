@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225100027
+# Name:Mohamed Muzammil T
+# Date:20/11/2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1229" height="954" alt="image" src="https://github.com/user-attachments/assets/91baf1d8-488e-4ae2-80fb-c54f453747bd" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1223" height="947" alt="image" src="https://github.com/user-attachments/assets/bbc4db1f-42bf-4109-a580-c43057718f02" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1178" height="907" alt="image" src="https://github.com/user-attachments/assets/97e616d6-0e5d-4ca1-9f76-1557eac59aee" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="772" height="597" alt="image" src="https://github.com/user-attachments/assets/fc0ac02c-dccd-4bd5-b74f-c34b4842e62f" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1234" height="951" alt="image" src="https://github.com/user-attachments/assets/174427ee-ba64-4aa3-9e10-a7418e989e02" />
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1020" height="857" alt="image" src="https://github.com/user-attachments/assets/877843d2-1140-4374-a694-e574189d1829" />
 
 
 
